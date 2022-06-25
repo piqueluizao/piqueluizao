@@ -1,7 +1,3 @@
-### Bem vinde ao meu GitHub 👋
-
-- 🌱 I’m currently learning : HTML5, CSS3, JavaScript, Bootstrap, Angular.
-- 😄 Pronouns: she/her
 name: Generate Datas
 
 on:
